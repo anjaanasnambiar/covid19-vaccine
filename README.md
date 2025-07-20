@@ -41,19 +41,15 @@ This application was developed during the COVID-19 pandemic period as an academi
 
 ## Project Structure
 
+```
 vaccination-scheduler/
-
-├── main.py   # Main application entry point and GUI
-
+├── main.py              # Main application entry point and GUI
 ├── data_manager.py      # Data handling and CSV operations
-
 ├── validator.py         # Input validation utilities
-
 ├── requirements.txt     # Python dependencies
-
 ├── appointments.csv     # Data storage file (created automatically)
-
-└── README.md            # This file
+└── README.md           # This file
+```
 
 ## License
 This project is open source and available under the MIT License.
